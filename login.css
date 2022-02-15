@@ -1,0 +1,35 @@
+.login{
+  margin-top: 200px;
+  margin-left: 350px;
+  margin-right: 350px;
+  background-color: #898a4c;
+  border-radius: 45px;
+}
+.userid, .pw{
+  color: white;
+  margin-left: 150px;
+}
+.userid .form-control{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.pw .form-control{
+  margin-top: 5px;
+  margin-left: 13px;
+}
+.btn-primary{
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 479px;}
+.judul{
+  color: white;
+  padding-top: 20px;
+  margin-left: 180px;
+}
+input{
+  border-radius: 5px;
+}
+body
+{
+ background-image: url(apotek.jpg);background-size: 110%;
+}

@@ -1,0 +1,32 @@
+.header{
+  background-image: url(apotek.jpg);
+  background-size: 70%;
+  padding: 35px 10px;
+
+}
+.header .nama{
+  font-weight: bold;
+  font-size: 35px;
+  display: inline-block;
+  color: black;
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 40px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+    text-decoration: none;
+}
+.header .subnama{
+  color: black;
+  font-size: 120%;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  margin-left: 10px;
+}
+ .teksberjalan{
+    margin-top: 5px;
+    font-size: 50px;
+  }
+  .konten{
+    margin-bottom: 50px;
+  }
